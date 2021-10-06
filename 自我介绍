@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8"/>
+    <title>关于西瓜生长安</title>
+    <link rel="stylesheet" type="text/css" href="./css.html">
+  </head>
+  <body>
+    <h1 style="text-align:center">机密档案</h1>
+    <h2>...基本信息...</h2>
+      <div class="center">
+        <div class="section1">
+          <ul>
+            <li>姓名：聂清扬</li>
+            <li>花名：西瓜生长安</li>
+            <li>性别：机密(需要更高权限)</li>
+            <li>联系方式：机密（需要更高权限）</li>
+            <li>住址：机密（需要更高权限）</li>
+            <li>学校：北京大学（基础医学院）</li>
+            <li>爱好：剧本杀，密室逃脱</li>
+          </ul>
+        </div>
+        <div class="section2">
+          <p>目前已截获照片</p>
+          <img src="./头像.jpg">
+        </div>
+      </div>
+    <h2>...其他信息...</h2>
+      <p>社恐人士，阴晴不定，偶尔深夜emo</p>
+    <h2>...小破站账号直通车...</h2>
+      <p>非必要请勿点击</p>
+      <a href="https://space.bilibili.com/165803407">西瓜生长安的主页</a>
+    <h3 style="text-align:center">注意你的身后！</h3>
+  </body>
+</html>
